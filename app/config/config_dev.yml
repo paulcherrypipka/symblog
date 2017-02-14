@@ -34,3 +34,4 @@ monolog:
 #    delivery_addresses: ['me@example.com']
 swiftmailer:
     disable_delivery: true
+
